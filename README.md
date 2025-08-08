@@ -15,10 +15,6 @@
 
 - 🤝 I’m looking for help with **debugging and optimizing Flutter app performance.**
 
-- 👨‍💻 All of my projects are available at [Mdarafath07](Mdarafath07)
-
-- 📝 I regularly write articles on [my personal blog](my personal blog)
-
 - 💬 Ask me about **Flutter, Firebase integration, and creating stunning UI/UX.**
 
 - 📫 How to reach me **mdarafathuddin10@gmail.com**
