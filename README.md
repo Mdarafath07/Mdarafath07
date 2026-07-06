@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://github.com/mdarafath07">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=3000&pause=500&color=0E75B6¢er=true&vCenter=true&width=500&lines=Md.+Arafath;Flutter+%26+Dart+Developer;Mobile+App+Enthusiast" alt="Typing SVG"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:2bdbdc&height=180§ion=header&text=Md.%20Arafath&fontSize=42&fontAlignY=32&desc=Flutter%20and%20Dart%20Developer&descAlignY=52&descSize=20"/>
 </p>
 
 <div align="center">
@@ -16,10 +14,9 @@
 
 ## About
 
-Flutter & Dart developer from Bangladesh, focused on building clean, performant cross-platform mobile apps.
+Flutter and Dart developer from Bangladesh, focused on building clean, performant cross-platform mobile apps.
 
 - **Contact:** mdarafathuddin10@gmail.com · **[LinkedIn](https://www.linkedin.com/in/md-arafath-560780308/)**
-- **Current project:** SmartStock — Electronics Retail Inventory Management System
 
 ## Core Stack
 
@@ -43,12 +40,15 @@ Flutter & Dart developer from Bangladesh, focused on building clean, performant 
   <a href="mailto:mdarafathuddin10@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
-## GitHub Analytics
+## GitHub Statistics
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdarafath07&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6&text_color=555555"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mdarafath07&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&text_color=555555&icon_color=0e75b6"/>
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=mdarafath07&theme=transparent&hide_border=true&stroke=0e75b6&ring=0e75b6&fire=0e75b6"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdarafath07&theme=transparent&hide_border=true&stroke=0e75b6&ring=0e75b6&fire=0e75b6"/>
 </p>
 
 <p align="center">
