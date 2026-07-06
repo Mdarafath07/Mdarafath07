@@ -1,36 +1,66 @@
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdarafath07&label=Profile%20views&color=0e75b6&style=flat" alt="mdarafath07" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdarafath07" alt="mdarafath07" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **Flutter and Dart to build beautiful mobile apps.**
-
-- 👯 I’m looking to collaborate on **building beautiful cross-platform apps with Flutter.**
-
-- 🤝 I’m looking for help with **debugging and optimizing Flutter app performance.**
-
-- 💬 Ask me about **Flutter, Firebase integration, and creating stunning UI/UX.**
-
-- 📫 How to reach me **mdarafathuddin10@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/md-arafath-560780308/](https://www.linkedin.com/in/md-arafath-560780308/)
-
-- ⚡ Fun fact **I love coding so much that sometimes I forget to take breaks and end up coding late into the night!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/arafat7h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arafat7h" height="30" width="40" /></a>
-<a href="https://instagram.com/md_arafath7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md_arafath7" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/mdarafath07">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=3000&pause=500&color=0E75B6¢er=true&vCenter=true&width=500&lines=Md.+Arafath;Flutter+%26+Dart+Developer;Mobile+App+Enthusiast" alt="Typing SVG"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </p>
+<div align="center">
+  <a href="https://github.com/mdarafath07">
+    <img src="https://komarev.com/ghpvc/?username=mdarafath07&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+  </a>
+  <img src="https://img.shields.io/github/followers/mdarafath07?style=flat-square&color=0e75b6" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/mdarafath07?style=flat-square&color=0e75b6" alt="Stars"/>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdarafath07&show_icons=true&locale=en&layout=compact" alt="mdarafath07" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdarafath07&show_icons=true&locale=en" alt="mdarafath07" /></p>
+## About
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdarafath07&" alt="mdarafath07" /></p>
+Flutter & Dart developer from Bangladesh, focused on building clean, performant cross-platform mobile apps.
+
+- **Contact:** mdarafathuddin10@gmail.com · **[LinkedIn](https://www.linkedin.com/in/md-arafath-560780308/)**
+- **Current project:** SmartStock — Electronics Retail Inventory Management System
+
+## Core Stack
+
+<p>
+  <a href="https://flutter.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/></a>
+  <a href="https://dart.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/></a>
+  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/></a>
+  <a href="https://firebase.google.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/></a>
+  <a href="https://git-scm.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://www.figma.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/></a>
+</p>
+
+**Expertise:** Riverpod · REST APIs · Hive · MongoDB · Arduino
+
+## Connect
+
+<p>
+  <a href="https://fb.com/arafat7h" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
+  <a href="https://instagram.com/md_arafath7" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/md-arafath-560780308/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:mdarafathuddin10@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+</p>
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdarafath07&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6&text_color=555555"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mdarafath07&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&text_color=555555&icon_color=0e75b6"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=mdarafath07&theme=transparent&hide_border=true&stroke=0e75b6&ring=0e75b6&fire=0e75b6"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mdarafath07&theme=flat&no-frame=true&column=6&margin-w=12&margin-h=12"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdarafath07&theme=minimal&bg_color=ffffff&color=0e75b6&line=0e75b6&point=2bdbdc&area=true&hide_border=true&grid=true"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2bdbdc,100:0e75b6&height=80§ion=footer"/>
+</p>
